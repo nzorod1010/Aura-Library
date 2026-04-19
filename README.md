@@ -1,2 +1,2 @@
 # Proyectos-y-soluciones
-Sistemas y programas desarrollados por mi
+Sistema de gestión bibliotecaria

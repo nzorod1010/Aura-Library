@@ -73,6 +73,8 @@ El sistema ha sido diseñado bajo estándares de ingeniería de software para se
 
 **Enzo Rodríguez** — *Estudiante de Ingeniería de Sistemas (PSM Porlamar)*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-rodr%C3%ADguez-47756a404/)
-
- https://github.com/user-attachments/assets/530f049c-44fe-4eac-9b13-9fad66bde46d
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/530f049c-44fe-4eac-9b13-9fad66bde46d">
+  </video>
+</div>
 ---

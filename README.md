@@ -71,7 +71,7 @@ El sistema ha sido diseñado bajo estándares de ingeniería de software para se
 
 ## 👤 Autor
 
-**Enzo Rodríguez** — *Estudiante de Ingeniería de Sistemas (PSM Porlamar)*
+**Enzo Rodríguez** — *Desarrollador de Software* - *Estudiante de Ingeniería de Sistemas (PSM Porlamar)*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-rodr%C3%ADguez-47756a404/)
 ---
 ## 🖥️ System Showcase: Aura Library
